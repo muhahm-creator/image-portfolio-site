@@ -1,1 +1,19 @@
-ECHO is on.
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1{
+    font-family: fantasy;
+    font-size: 3em;
+    width: 400px;
+    border-bottom: 2px solid pink;
+    border-right: 2px solid pink;
+    text-align: center;
+}
+img {
+    width: 450px;
+    height: 300px;
+    margin: 10px;
+}
